@@ -1,0 +1,97 @@
+nav
+{
+	height:70px;
+	width:auto;
+	background:#B3ABAB;
+	opacity:.2;
+}
+ul{
+margin-left:700px;
+margin-top:-60px;
+opacity:none;
+	
+}
+li{
+	display:inline;
+	margin-left:30px;
+}
+
+img{
+	margin-left:150px;
+	padding:5px;
+
+}
+.button1
+{ 
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+font-size:16px;
+height:40px;
+width:140px;
+background:none;
+border-top-left-radius:7px;
+border-top-right-radius:7px;
+border-bottom-right-radius:7px;
+border-bottom-left-radius:7px;
+padding:5px;
+}
+.button2{
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+font-size:16px;
+height:40px;
+width:90px;
+background:white;
+border-top-left-radius:7px;
+border-top-right-radius:7px;
+border-bottom-right-radius:7px;
+border-bottom-left-radius:7px;
+padding:5px;
+}
+header
+{
+
+}
+h1{
+	color:White;
+	margin-left:150px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	
+}
+p{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:50px;
+	font-style:bold;
+	color:white;
+	margin-left:150px;
+	margin-top:200px;
+	
+}
+hr{
+margin-left:150px;
+width:900px;
+}
+.free{
+	margin-left:150px;
+	margin-top:-1px;
+	font-size:24px;
+		font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+
+}
+.button3{
+		font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+		font-size:24px;
+		background:#0E18CC;
+		color:white;
+		margin-left:700px;
+		margin-top:-220px;
+		width:350px;
+		border:none;
+		height:45px;
+		border-radius:7px;
+		
+
+	
+}
+body{
+	
+	
+}
